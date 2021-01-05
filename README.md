@@ -1,8 +1,8 @@
 # Debug Edge adapter: SWD to J-Link Edu Mini with USB power
 
-<img src="https://github.com/nathancharlesjones/Debug-Edge_SWD-to-J-Link-Edu-Mini-adapter-with-USB-power/blob/main/Debug-Edge_SWD-J-Link-USB_top.png" width="300">
+<img src="https://github.com/nathancharlesjones/Debug-Edge_SWD-to-J-Link-Edu-Mini-adapter-with-USB-power/blob/main/Debug-Edge_SWD-J-Link-USB_top.png" width="600">
 
-<img src="https://github.com/nathancharlesjones/Debug-Edge_SWD-to-J-Link-Edu-Mini-adapter-with-USB-power/blob/main/Debug-Edge_SWD-J-Link-USB_bottom.png" width="300">
+<img src="https://github.com/nathancharlesjones/Debug-Edge_SWD-to-J-Link-Edu-Mini-adapter-with-USB-power/blob/main/Debug-Edge_SWD-J-Link-USB_bottom.png" width="600">
 
 ## What is it?
 
