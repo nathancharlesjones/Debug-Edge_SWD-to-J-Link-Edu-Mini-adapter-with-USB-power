@@ -28,6 +28,6 @@ If you intend to use USB power, you'll also need the following:
 
 ## How do I use it?
 
-First, you'll need a PCB which has been designed to be used with the Debug Edge adapter. You can find an example of another PCB that I laid out which includes the Debug Edge adapter [here](https://github.com/nathancharlesjones/STM32F103C8T6-breakout-board_compact/).
+First, you'll need a PCB which has been designed to be used with the Debug Edge adapter. You can find an example of another PCB that I laid out which includes the Debug Edge adapter [here](https://github.com/nathancharlesjones/STM32F103C8T6-breakout-board/).
 
 After assembling this PCB, use the AVX connector to mate the MCU PCB with the adapter board. Connect one end of a 10-pin cable to J3 and the other to a J-Link Edu Mini. If you are using USB power, also connect a USB micro-B cable to J4 and place a jumper over the correct voltage you'd like to use to power the MCU, either 5V or 3.3V (or, possible, another voltage if you've chosen a different voltage regulator).
